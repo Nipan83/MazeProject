@@ -1,0 +1,36 @@
+body{
+  //background-color:#BBBFBC;
+}
+canvas{
+  position:absolute;
+  top: calc( 50% - 256px );
+  left: calc( 50% - 256px );
+  box-shadow: 0 0 2px #000;
+
+  
+}
+
+.left{
+  position:absolute;
+  top:90px;
+  left:90px;
+  
+}
+.right{
+  position:absolute;
+  top:90px;
+  left:180px;
+  
+}
+.up{
+  position:absolute;
+  top:55px;
+  left:135px;
+  
+}
+.down{
+  position:absolute;
+  top:125px;
+  left:135px;
+  
+}
