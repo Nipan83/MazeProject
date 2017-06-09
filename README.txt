@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/nipandas83/pen/PjqoKR.
+-A simple maze created using canvas and object functionalities are handled by javascript and jQuery.
 
  
